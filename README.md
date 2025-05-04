@@ -34,7 +34,7 @@ All code was directly copied from that repository and used to generate our facia
 
 The human judgement results was directly copied from the following study: https://osf.io/tfn7v/
 
-We used the `eachresponse.csv` file as training / validation data for our models.
+We used the `eachresponse.csv` file as training / validation data for our models. We only used images from  `DATASET/fake` and the `DATASET/real` folders.
 
 ## Data
 The only data file from the original Human Ability Study used in this project is located in `DATA AND R CODE/`:
