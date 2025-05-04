@@ -32,6 +32,10 @@ The Facial Embedding Model that we used comes from the following GitHub reposito
 
 All code was directly copied from that repository and used to generate our facial embeddings for every image in the DATASET folder from the OSF study.
 
+The human judgement results was directly copied from the following study: https://osf.io/tfn7v/
+
+We used the `eachresponse.csv` file as training / validation data for our models.
+
 ## Data
 The only data file from the original Human Ability Study used in this project is located in `DATA AND R CODE/`:
 - `eachresponse.csv`: Contains trial-level participant responses, including image IDs, real/fake labels, response times, and confidence ratings.
