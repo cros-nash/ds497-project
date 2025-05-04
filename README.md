@@ -40,6 +40,10 @@ We used the `eachresponse.csv` file as training / validation data for our models
 The only data file from the original Human Ability Study used in this project is located in `DATA AND R CODE/`:
 - `eachresponse.csv`: Contains trial-level participant responses, including image IDs, real/fake labels, response times, and confidence ratings.
 
+The images came from the original Human Ability Study located in `DATASET/`:
+- `real`: Contains 50 `png` files, with each one being a unqiue image of a real person
+- `fake`: Contains 50 `jpg` files, with each one being a synthetic image of a person's face 
+
 ## Usage
 After installing the dependencies and setting up your environment:
 1. Launch Jupyter Notebook:
