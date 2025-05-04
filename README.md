@@ -8,7 +8,7 @@ This project investigates how well cognitive models (exemplar and prototype) and
 ### Prerequisites
 - Python 3.8 or higher
 - pip
-- `DATASET` folder from Human Ability Study: https://osf.io/tfn7v/
+- Both `DATASET` and `DATA AND R CODE` folders from Human Ability Study: https://osf.io/tfn7v/
 
 ### Python setup
 1. Create and activate a virtual environment:
